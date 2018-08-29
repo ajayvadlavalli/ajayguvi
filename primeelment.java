@@ -16,7 +16,7 @@ public static void main (String[] args) throws java.lang.Exception
 
 	{
 
-		int max=0;
+	int max=0;
 
 		Scanner s = new Scanner (System.in);
 
